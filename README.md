@@ -5,6 +5,8 @@
 * DevClub: [Игры как самовыражение, для каждого](https://www.youtube.com/watch?v=tBkf_cEGpzE) ("Games for self-expression, for everybody").
   Looking at three game engines (Flickgame, Bitsy, Twine) and making three short games in these.
   Why would you need that, and why not choose bigger engines?
+* HOT ESA Hub: [Every Door Intro](https://www.youtube.com/watch?v=tr7Dpo6F4k8).
+  Webinar on basics of the Every Door editor.
 * BalticGIT: [Getting POI from OSM](https://www.youtube.com/watch?v=lvB1V2ifLCY). See below for a better version.
 * FOSS4G: [How to get points of interest from OSM](https://www.youtube.com/watch?v=WQwO-vbGre0).
   An in-depth review of mapping and tagging practices of OSM, how it fares against proprietary POI providers, and what one needs to know to use the data.
@@ -27,6 +29,10 @@
 * FOSS4G: [Surveying amenities for OSM at scale](https://talks.osgeo.org/foss4g-2022/talk/DTJSU3/) (no video yet).
   Outlines OSM tagging model, how it's different from proprietary offers, and how Every Door will change how we
   look at OSM data quality and coverage.
+* ETV+: [Tallinn Public Transit App](https://www.youtube.com/watch?v=JTsk8lgl0sw).
+  I made Easy Transit and wanted to share it. The TV invited me for a five minute discussion.
+* ETV+: "Planning a summer route".
+  Overview of some tools to take on a trip: Organic Maps, Cycle.Travel, WikiVoyage.
 
 ## 2021
 
@@ -133,6 +139,12 @@
 * State of the Map: [Mapping Rivers](https://speakerdeck.com/sotm2017/day3-0930-lt-rivers) (no video).
   A lightning talk version of my Schemotechnika talk on mapping underground rivers in Moscow.
 * State of the Map: OpenStreetMap Awards 2017 (no video: held at a social event).
+* FOSS4G Europe: "Struggling With The Open Community" (no video).
+  How we added an editor into MAPS.ME, and some people in OSM did not like it.
+* Map Solutions: "Every Road And Every Stop" (no video).
+  Big overview of road mapping in OpenStreetMap, how to use the data for routing.
+* SHORTЫ: [PIN-MIX](https://www.youtube.com/watch?v=wcmO_I6E7As) (in Russian).
+  A short talk on weekly night bicycle rides in Saint-Petersburg. 20 slides 20 seconds each.
 
 ## 2016
 
@@ -156,6 +168,11 @@
 * State of the Map: [OpenStreetMap Awards 2016](https://www.youtube.com/watch?v=NwzZ5SMJXxY).
 * Open Data Day Moscow: [On OpenStreetMap](https://www.youtube.com/watch?v=XDjpmE9wzeQ).
   Slide-less talk on most things OSM.
+* FOSS4G: [The most popular OpenStreetMap editing application](https://youtu.be/G-MB0CYGXVQ).
+  MAPS.ME gained an editor, and with that became the second most popular editor in OSM.
+  This shows some statistics and issues that arose from the huge userbase.
+* Map Solutions: "How to process and store OpenStreetMap data for faster extraction and rendering" (in Russian).
+  Some hints on data extraction (e.g. Overpass API and Osmium) and data storage (e.g. PostGIS and o5m).
 * Night of Living Maps: [OpenStreetMap](https://www.youtube.com/watch?v=UPvUaCv_E6k) (in Russian).
   What can you do with OpenStreetMap: editing, monitoring, custom maps, news.
 
@@ -193,7 +210,10 @@
   Building a surveying gear for mapping while driving behind the wheel with Arduino and Nanolog.
 * SotM Baltics: [What is OpenSurveyor?](https://vimeo.com/73281384).
   Short presentation for the GSoC app for surveying. Didn't amount to much.
-* State of the Map: ???
+* State of the Map: [The Bronze Age of OpenStreetMap](https://vimeo.com/78476495).
+  How we were in a tool-building era of OSM, and some proposals for better walking papers.
+* State of the Map: [Improving Feedback](https://vimeo.com/79429405).
+  Lightning talk on adding a "thanks" button to changesets.
 
 ## 2012
 
@@ -201,6 +221,14 @@
   Just a big announcement and answering questions.
 * MMM: [Жми кнопку](http://www.youtube.com/watch?v=v5PUqvjJkHE) ("Push the button").
   Demonstrating NanoLog, a tool for precise mapping of road features while on the move.
+* Open GIS: "Ваша карта" ("Your map", no video).
+  Keynote about OpenStreetMap.
+* Open GIS: "Нарисовать лучшую карту в мире" ("To make the best map in the world", no video).
+  On mapping parties, story of some of those.
+* Open GIS: [Catalogue](https://www.youtube.com/watch?v=H76_JZ5GEsE) (in Russian).
+  An attempt to make a schema for documenting OpenStreetMap tagging.
+* Open GIS: "Нужен Совет" ("Need a Board", no video).
+  Introductory talk for a discussion about establishing a Russian OpenStreetMap Board.
 
 ## 2011
 
