@@ -12,6 +12,14 @@
   An in-depth review of mapping and tagging practices of OSM, how it fares against proprietary POI providers, and what one needs to know to use the data.
 * FOSS4G: [What in-game maps can teach us](https://www.youtube.com/watch?v=qgsQbdg96LI).
   An impromptu talk made on Nintendo Switch about in-game maps, how do they work, and how they are different from real world maps.
+* State of the Map: Meet Your Mapper.
+  A warming up show together with Gregory Marler before the event.
+* State of the Map: Point of Interest Anyone?
+  State of point of interest in OSM, and how can we make them better.
+* State of the Map: Two cool things on Every Door roadmap.
+  Lightning talk on walking papers and advanced configuration in Every Door.
+* GIS Päev: Miks kasutada GeoPackage? ("Why use GeoPackage?", no recording).
+  Exploring open geodata formats: GeoJSON, Spatialite, and GeoPackage.
 
 ## 2022
 
@@ -91,6 +99,10 @@
   Also it's pretty hard to include people who don't speak English or don't need open geodata.
 * SotM SEE: Open Licenses (no video, slides pending).
   An improptu lightning talk on ODbL license and its shenanigans.
+* GIS Tech in Earth Studies: OpenStreetMap: альтернативная картография ("Alternative Carthography", no recording).
+  A keynote at Belarussian State University on GIS Day. Just an overview of OSM for professional GIS.
+* PraRovar Tourism: [Как сделать маршрут](https://www.youtube.com/watch?v=QAe2eIyiRA0) ("How to plot a route").
+  Bicycle touring conference, this one was about online tools and apps for cycling.
 
 ## 2018
 
