@@ -14,8 +14,8 @@
   An impromptu talk made on Nintendo Switch about in-game maps, how do they work, and how they are different from real world maps.
 * State of the Map: Meet Your Mapper.
   A warming up show together with Gregory Marler before the event.
-* State of the Map: Point of Interest Anyone?
-  State of point of interest in OSM, and how can we make them better.
+* State of the Map: [Point of Interest Anyone?](https://www.youtube.com/watch?v=ZV6G3m8SP5g).
+  State of points of interest and their imports in OSM, and how can we make them better.
 * State of the Map: Two cool things on Every Door roadmap.
   Lightning talk on walking papers and advanced configuration in Every Door.
 * GIS Päev: Miks kasutada GeoPackage? ("Why use GeoPackage?", no recording).
