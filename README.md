@@ -1,5 +1,10 @@
 # I Speak
 
+## 2024
+
+* DevClub: [Как работают транспортные приложения](https://www.youtube.com/watch?v=pr8ub97tbdA) ("How transport apps work").
+  A brief history of GTFS and related technologies, transit data collections, APIs, and my new GTFS storage format.
+
 ## 2023
 
 * DevClub: [Игры как самовыражение, для каждого](https://www.youtube.com/watch?v=tBkf_cEGpzE) ("Games for self-expression, for everybody").
