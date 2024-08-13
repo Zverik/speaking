@@ -4,6 +4,14 @@
 
 * DevClub: [Как работают транспортные приложения](https://www.youtube.com/watch?v=pr8ub97tbdA) ("How transport apps work").
   A brief history of GTFS and related technologies, transit data collections, APIs, and my new GTFS storage format.
+* FOSS4G: [Crowdmapping That Works](https://www.youtube.com/watch?v=uYu8cHHN1MM).
+  Some examples and general guidelines on organizing a crowdmapping project.
+* State of the Map EU: Cycleways in OpenStreetMap don't work for city planning (no recording).
+  Five-minute talk on drawbacks of OSM tagging model and how it doesn't work for city planning.
+* State of the Map EU: Making Notes: How Every Door Replaces Walking Papers (no recording).
+  A short story of Walking Papers and how Every Door makes them obsolete by being better at everything.
+* State of the Map EU: Future of OSM.
+  I hosted a three-hour panel with eight people on it.
 
 ## 2023
 
@@ -17,11 +25,11 @@
   An in-depth review of mapping and tagging practices of OSM, how it fares against proprietary POI providers, and what one needs to know to use the data.
 * FOSS4G: [What in-game maps can teach us](https://www.youtube.com/watch?v=qgsQbdg96LI).
   An impromptu talk made on Nintendo Switch about in-game maps, how do they work, and how they are different from real world maps.
-* State of the Map: Meet Your Mapper.
+* State of the Map EU: Meet Your Mapper.
   A warming up show together with Gregory Marler before the event.
-* State of the Map: [Point of Interest Anyone?](https://www.youtube.com/watch?v=ZV6G3m8SP5g).
+* State of the Map EU: [Point of Interest Anyone?](https://www.youtube.com/watch?v=ZV6G3m8SP5g).
   State of points of interest and their imports in OSM, and how can we make them better.
-* State of the Map: Two cool things on Every Door roadmap.
+* State of the Map EU: Two cool things on Every Door roadmap.
   Lightning talk on walking papers and advanced configuration in Every Door.
 * GIS Päev: Miks kasutada GeoPackage? ("Why use GeoPackage?", no recording).
   Exploring open geodata formats: GeoJSON, Spatialite, and GeoPackage.
