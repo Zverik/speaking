@@ -12,6 +12,14 @@
   A short story of Walking Papers and how Every Door makes them obsolete by being better at everything.
 * State of the Map EU: Future of OSM.
   I hosted a three-hour panel with eight people on it.
+* State of the Map: [Mapping the classroom with Every Door](https://2024.stateofthemap.org/sessions/FRFJBJ/) (no recording).
+  A workshop on learning Every Door editor.
+* State of the Map: [Go Out And Map](https://2024.stateofthemap.org/sessions/SC7HYF/) (no video yet).
+  How surveying in OSM hasn't changed much since 2010, what can be done, and how Every Door replaces walking papers.
+* State of the Map: OSMF Board AMA.
+  Hosted the panel with seven OSMF Board members.
+* ETV+: "Issues with updating the bus route network".
+  Just some thoughts what can be made better with TTA processes.
 
 ## 2023
 
@@ -47,7 +55,7 @@
   Open licenses for art and code, and what are the common pitfalls with those.
 * State of the Map: [Every Door and the future of POI in OSM](https://www.youtube.com/watch?v=MuniBNwynEs).
   The history of Every Door development, why open data is daunting to work with, but open source helps.
-* FOSS4G: [Surveying amenities for OSM at scale](https://talks.osgeo.org/foss4g-2022/talk/DTJSU3/) (no video yet).
+* FOSS4G: [Surveying amenities for OSM at scale](https://www.youtube.com/watch?v=GR5hgZDNBIw).
   Outlines OSM tagging model, how it's different from proprietary offers, and how Every Door will change how we
   look at OSM data quality and coverage.
 * ETV+: [Tallinn Public Transit App](https://www.youtube.com/watch?v=JTsk8lgl0sw).
