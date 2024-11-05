@@ -18,8 +18,10 @@
   How surveying in OSM hasn't changed much since 2010, what can be done, and how Every Door replaces walking papers.
 * State of the Map: OSMF Board AMA.
   Hosted the panel with seven OSMF Board members.
-* ETV+: "Issues with updating the bus route network".
+* ETV+: [Достаточно ли Таллинн вовлекает жителей в планирование](https://jupiterpluss.err.ee/1609462825/dostatochno-li-tallinn-vovlekaet-zhitelej-v-planirovanie).
   Just some thoughts what can be made better with TTA processes.
+* OSGeo Slovenija: [Effective amateur geodata collection](https://www.youtube.com/watch?v=wxwpeTo7EVg).
+  A look at Every Door and StreetComplete, and what they do that professional data collection apps could borrow.
 
 ## 2023
 
