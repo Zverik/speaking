@@ -4,6 +4,8 @@
 
 * DevClub: [Как работают транспортные приложения](https://www.youtube.com/watch?v=pr8ub97tbdA) ("How transport apps work").
   A brief history of GTFS and related technologies, transit data collections, APIs, and my new GTFS storage format.
+* DevClub: [Веб проиграл телефоны](https://www.youtube.com/watch?v=WcPZKZFJhsM) ("Web lost on phones").
+  Basically a retelling of [this article](https://infrequently.org/2024/10/platforms-are-competitions/) with a Sõnamobi app announcement.
 * FOSS4G: [Crowdmapping That Works](https://www.youtube.com/watch?v=uYu8cHHN1MM).
   Some examples and general guidelines on organizing a crowdmapping project.
 * State of the Map EU: Cycleways in OpenStreetMap don't work for city planning (no recording).
